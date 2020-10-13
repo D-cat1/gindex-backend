@@ -5,7 +5,7 @@
 	"keywords": ["gindex-backend"],
 	"env": {
 		"DBURL": {
-			"description": "MongoDB Atlas Connect URL for Your Database",
+			"description": "MongoD Atlas Connect URL for Your Database",
       "required": true
 		},
 		"SITE": {
